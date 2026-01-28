@@ -1,6 +1,6 @@
 """
 LeetCode: Reverse Words in a String
-Link: https://leetcode.com/problems/reverse-words-in-a-string/
+Link: https://leetcode.com/problems/reverse-words-in-a-string/solutions/7531814/151-reverse-words-in-a-string-by-fardeen-w8bf/
 
 Approach 1: Basic
 - Split string into words
