@@ -1,5 +1,6 @@
 """
 LeetCode 88 — Merge Sorted Array
+Link: https://leetcode.com/problems/merge-sorted-array/solutions/7534389/88-merge-sorted-array-by-fardeenali04-4kww/
 
 Approach:
 1. Remove extra zeros from nums1 after index m.
